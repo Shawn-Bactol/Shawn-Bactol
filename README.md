@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shawn-Bactol
+- 👋 Hi, I’m dulic
 - 👀 I’m interested in ....(Secret)
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on nothing
