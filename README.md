@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me (Secret)
 - 😄 Pronouns: Git/hub
-- ⚡ Fun fact: It's fun to fuck
+- ⚡ Fun fact: sad fact
 
 <!---
 Shawn-Bactol/Shawn-Bactol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
